@@ -1,0 +1,4 @@
+/web/*
+!/web/source
+!/web/_config.yml
+!/web/_config.fluid.yml
